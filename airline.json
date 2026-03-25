@@ -1,8 +1,8 @@
 {
     "name": "sigit",
-    "color": "yellow",
+    "color": "bluee",
     "description": "des tesss.",
-    "bgcolor": "darkblue",
+    "bgcolor": "yellow",
     "aircrafts": {
         "12": {
             "name": "Pilatus PC-7 Mk-I",
