@@ -1,0 +1,36 @@
+{
+    "name": "sigit",
+    "color": "yellow",
+    "description": "des tesss.",
+    "bgcolor": "darkblue",
+    "aircrafts": {
+        "12": {
+            "name": "Pilatus PC-7 Mk-I",
+            "liveries": [
+                {
+                    "name": "tes",
+                    "texture": [
+                        "https://github.com/penyimpananmu-creator/sigit/blob/main/tm%20jptr%20tes%202.png"
+                    ],
+                    "credits": "sigit"
+                },
+
+            ],
+            "labels": [
+                "Texture"
+            ],
+            "index": [
+                1
+            ],
+            "parts": [
+                0
+            ],
+            "mp": [
+                {
+                    "modelIndex": 0,
+                    "textureIndex": 0
+                }
+            ]
+        }
+    }
+}
